@@ -45,3 +45,7 @@ defaults delete com.apple.dt.Xcode DVTPlugInManagerNonApplePlugIns-Xcode-6.4
 这次看到上面的提示再选择Load Bundles
 
 就可以了。
+
+
+
+xcode8插件还需要这个 http://www.jianshu.com/p/dc2fc2a680fc
