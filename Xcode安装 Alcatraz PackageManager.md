@@ -47,5 +47,5 @@ defaults delete com.apple.dt.Xcode DVTPlugInManagerNonApplePlugIns-Xcode-6.4
 就可以了。
 
 
-
-xcode8插件还需要这个 http://www.jianshu.com/p/dc2fc2a680fc
+xcode8插件还需要这个稳定 http://www.tuicool.com/articles/MbEjqam
+xcode8插件还需要这个不稳定 http://www.jianshu.com/p/dc2fc2a680fc
