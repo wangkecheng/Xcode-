@@ -47,5 +47,5 @@ defaults delete com.apple.dt.Xcode DVTPlugInManagerNonApplePlugIns-Xcode-6.4
 就可以了。
 
 
-xcode8插件还需要这个稳定 http://www.tuicool.com/articles/MbEjqam
+xcode8插件还需要这个稳定 http://www.tuicool.com/articles/MbEjqam 运行后，在dock中有个红帽子，然后右键 在finder 中显示，关闭xcode后再打开finder中的红帽子， 将应用z程序中的xcode直接拖入框框中即可
 xcode8插件还需要这个不稳定 http://www.jianshu.com/p/dc2fc2a680fc
